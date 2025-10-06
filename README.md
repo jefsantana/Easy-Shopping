@@ -4,9 +4,10 @@
 <h2>Esse foi um projeto que eu aprendi no Dev Club</h2>
 
 <h2>Tecnologias utilizadas:</h2>
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-
+<br>
+    - HTML
+    - CSS
+<br>
+<br>
 
 <img src="./assets/New Product Mockup Now Available Marketing Promotion Instagram Post (1).png" alt="imagem do site notebook">
