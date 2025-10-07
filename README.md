@@ -20,6 +20,14 @@ Abaixo está uma prévia do projeto:
 
 ---
 
+## 🌐 Acesse o Projeto Online
+
+Você pode visualizar o site publicado diretamente pelo GitHub Pages no link abaixo:
+
+👉 [https://jefsantana.github.io/Easy-Shopping/](https://jefsantana.github.io/Easy-Shopping/)
+
+---
+
 ## 🧠 Aprendizados
 
 Durante o desenvolvimento deste projeto, aprimorei meus conhecimentos em:
